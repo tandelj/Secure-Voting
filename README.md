@@ -1,10 +1,7 @@
 # SecureVoting
-In this project, we implemented the Secure Election Protocol with two central facilities. The
-implementation provides a secure way for people to vote electronically, which eliminates the hassle
-of physically being present at designated election locations.
-Since computerized voting will not replace general elections unless there is a protocol that both
-maintains individual privacy and prevents cheating, the ideal protocol must meet these
+In this project, we implemented the Secure Election Protocol with two central facilities. The implementation provides a secure way for people to vote electronically, which eliminates the hassle of physically being present at designated election locations. Since computerized voting will not replace general elections unless there is a protocol that both maintains individual privacy and prevents cheating, the ideal protocol must meet these
 requirements:
+\n
 ● Only authorized voters can vote before the election ends.
 ● No one can vote more than once.
 ● No one can determine for whom anyone else voted.
